@@ -15,3 +15,5 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 sudo grub2-set-default 0
 Создал образ системы через packer build centos.json
 В облако vagrant через cli загрузить образ не получилось, загрузил через веб.
+https://app.vagrantup.com/Vozmen/boxes/centos-7-5/versions/1.0
+Скопировал созданный образ в личный репозиторий
