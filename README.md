@@ -17,3 +17,5 @@ sudo grub2-set-default 0
 В облако vagrant через cli загрузить образ не получилось, загрузил через веб (connect_nonblock': SSL_connect returned=1 errno=0 state=SSLv3/TLS write client hello: tlsv1 alert protocol version (OpenSSL::SSL::SSLError))
 https://app.vagrantup.com/Vozmen/boxes/centos-7-5/versions/1.0
 Скопировал созданный образ в личный репозиторий
+
+Vagrant up тянет образ системы из VagrantCloud.
